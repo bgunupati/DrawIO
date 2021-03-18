@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-18T14:24:23.927Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="HfyuN51gHe5Gwx2xaaSR" version="14.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-18T14:39:56.789Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="WyfSoDumTBocpT88uI0L" version="14.4.8" type="github">
   <diagram id="L2vrmVbYk8PXET3CcOvT" name="Catalog Design">
-    <mxGraphModel dx="1847" dy="900" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2087" dy="900" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="eQ6TmiPkdyp5XksYMVGf-0" />
         <mxCell id="eQ6TmiPkdyp5XksYMVGf-1" parent="eQ6TmiPkdyp5XksYMVGf-0" />
@@ -993,7 +993,7 @@
         <mxCell id="QIfzgD3XP-CKSTT_W-6l-16" style="shape=partialRectangle;connectable=0;fillColor=#D5E8D4;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;" vertex="1" parent="QIfzgD3XP-CKSTT_W-6l-15">
           <mxGeometry width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QIfzgD3XP-CKSTT_W-6l-17" value="PersoanID (long int)" style="shape=partialRectangle;connectable=0;fillColor=#D5E8D4;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=0;overflow=hidden;" vertex="1" parent="QIfzgD3XP-CKSTT_W-6l-15">
+        <mxCell id="QIfzgD3XP-CKSTT_W-6l-17" value="PersonaID (long int)" style="shape=partialRectangle;connectable=0;fillColor=#D5E8D4;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=0;overflow=hidden;" vertex="1" parent="QIfzgD3XP-CKSTT_W-6l-15">
           <mxGeometry x="30" width="256.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oDca2JGXUT30Z5TtRtxs-74" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=#D5E8D4;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="v7TmH5QMS3TOzQHI-bRZ-35" vertex="1">
@@ -1029,7 +1029,7 @@
         <mxCell id="oDca2JGXUT30Z5TtRtxs-6" value="PK" style="shape=partialRectangle;connectable=0;fillColor=#D5E8D4;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;strokeColor=#d6b656;" parent="oDca2JGXUT30Z5TtRtxs-5" vertex="1">
           <mxGeometry width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="oDca2JGXUT30Z5TtRtxs-7" value="PersoanID (long int)" style="shape=partialRectangle;connectable=0;fillColor=#D5E8D4;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=1;overflow=hidden;strokeColor=#d6b656;" parent="oDca2JGXUT30Z5TtRtxs-5" vertex="1">
+        <mxCell id="oDca2JGXUT30Z5TtRtxs-7" value="PersonaID (long int)" style="shape=partialRectangle;connectable=0;fillColor=#D5E8D4;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=1;overflow=hidden;strokeColor=#d6b656;" parent="oDca2JGXUT30Z5TtRtxs-5" vertex="1">
           <mxGeometry x="30" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oDca2JGXUT30Z5TtRtxs-21" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=#D5E8D4;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=#d6b656;" parent="oDca2JGXUT30Z5TtRtxs-4" vertex="1">
