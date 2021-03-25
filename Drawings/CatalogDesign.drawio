@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2021-03-25T14:56:21.721Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="N7xq1ruNCZgPv2rXcHnj" version="14.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-25T18:36:43.924Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="fqdAznDD7kfY73ss5ceI" version="14.5.1" type="github">
   <diagram id="L2vrmVbYk8PXET3CcOvT" name="Catalog Design">
     <mxGraphModel dx="2087" dy="852" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="eQ6TmiPkdyp5XksYMVGf-0" />
         <mxCell id="eQ6TmiPkdyp5XksYMVGf-1" parent="eQ6TmiPkdyp5XksYMVGf-0" />
-        <mxCell id="eQ6TmiPkdyp5XksYMVGf-2" value="ProductsCatalog" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;strokeColor=#82b366;fontSize=13;fillColor=#FFB366;" parent="eQ6TmiPkdyp5XksYMVGf-1" vertex="1">
+        <mxCell id="eQ6TmiPkdyp5XksYMVGf-2" value="ProductCatalog" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;strokeColor=#82b366;fontSize=13;fillColor=#FFB366;" parent="eQ6TmiPkdyp5XksYMVGf-1" vertex="1">
           <mxGeometry x="413" y="108" width="257" height="296" as="geometry" />
         </mxCell>
         <mxCell id="eQ6TmiPkdyp5XksYMVGf-3" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=#82b366;fillColor=#FFB366;" parent="eQ6TmiPkdyp5XksYMVGf-2" vertex="1">
@@ -88,7 +88,7 @@
         <mxCell id="r4OQMH3bRBUS6WbRz7Dj-83" value="IsActive (Boolean)" style="shape=partialRectangle;connectable=0;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;strokeColor=#82b366;fillColor=#FFB366;" parent="r4OQMH3bRBUS6WbRz7Dj-81" vertex="1">
           <mxGeometry x="52" width="205" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="eQ6TmiPkdyp5XksYMVGf-51" value="CatalogImages" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;strokeColor=#82b366;fontSize=13;fillColor=#FFB366;" parent="eQ6TmiPkdyp5XksYMVGf-1" vertex="1">
+        <mxCell id="eQ6TmiPkdyp5XksYMVGf-51" value="CatalogImage" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;strokeColor=#82b366;fontSize=13;fillColor=#FFB366;" parent="eQ6TmiPkdyp5XksYMVGf-1" vertex="1">
           <mxGeometry x="48" y="114" width="186.5" height="180" as="geometry" />
         </mxCell>
         <mxCell id="eQ6TmiPkdyp5XksYMVGf-52" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=#82b366;fillColor=#FFB366;" parent="eQ6TmiPkdyp5XksYMVGf-51" vertex="1">
@@ -458,7 +458,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="eQ6TmiPkdyp5XksYMVGf-177" value="AdditionalProductDetails" style="shape=table;startSize=40;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;strokeColor=#82b366;fontSize=13;fillColor=#FFB366;" parent="eQ6TmiPkdyp5XksYMVGf-1" vertex="1">
+        <mxCell id="eQ6TmiPkdyp5XksYMVGf-177" value="AdditionalProductDetail" style="shape=table;startSize=40;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;strokeColor=#82b366;fontSize=13;fillColor=#FFB366;" parent="eQ6TmiPkdyp5XksYMVGf-1" vertex="1">
           <mxGeometry x="810" y="60" width="230" height="730" as="geometry" />
         </mxCell>
         <mxCell id="eQ6TmiPkdyp5XksYMVGf-178" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;strokeColor=#82b366;fillColor=#FFB366;" parent="eQ6TmiPkdyp5XksYMVGf-177" vertex="1">
