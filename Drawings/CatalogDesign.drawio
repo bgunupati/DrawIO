@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-26T14:57:54.474Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="dyd34b5slPdVOhrNb0V4" version="14.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-26T14:58:06.651Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="L6FTmcHhHcwnVyR2Ny6x" version="14.5.1" type="github">
   <diagram id="L2vrmVbYk8PXET3CcOvT" name="Catalog Design">
     <mxGraphModel dx="1962" dy="852" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1743,6 +1743,9 @@
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="260" y="1780" as="sourcePoint" />
             <mxPoint x="360" y="1680" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="800" y="1640" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="sELHrBVVLnZN5eWrdgWd-144" value="&lt;p&gt;&lt;/p&gt;&lt;div style=&quot;text-align: left&quot;&gt;1) Price Audit table keeps track if &lt;b&gt;any changes&lt;/b&gt; happening in&amp;nbsp;&lt;span style=&quot;font-size: 13px&quot;&gt;ProductAccountCountryPricing&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-size: 13px&quot;&gt;2) When new price is provided in the application with future activation date. The inactive&amp;nbsp;price stays in the&amp;nbsp;ProductAccountCountryPricing table.&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 13px ; text-align: left&quot;&gt;&lt;span&gt;3) On activation&amp;nbsp;of new inactive price the old price moves to the audit table by Timer Job.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;font-size: 13px&quot;&gt;4) The timer jobs needs to run every-hour as every hour some where in globe the clock ticks 00:00 HRS (if activation&amp;nbsp;is suppose to happen at midnight)&lt;/span&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="eQ6TmiPkdyp5XksYMVGf-1">
